@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# React Component Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
+
+This is a project for a job interview assignments.
+react-question2.pdf is the question.
+
+## How to start
+
+1. `npm install`
+2. `npm start`
+3. open http://localhost:3000
 
 ## Available Scripts
 
