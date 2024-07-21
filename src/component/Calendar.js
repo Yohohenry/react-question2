@@ -9,7 +9,7 @@ const Calendar = () => {
 	const endOfCalendar = endOfMonth.clone().endOf("isoWeek");
 	const days = [];
 	const date = startOfCalendar.clone();
-	const currentDate = moment("2024-07-21");
+	const currentDate = moment();
 
 	const [startDate, setStartDate] = useState(null);
 	const [endDate, setEndDate] = useState(null);
